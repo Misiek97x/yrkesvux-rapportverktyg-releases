@@ -1,2 +1,6 @@
-# yrkesvux-rapportverktyg-releases
-Versioner och uppdateringar för Yrkesvux Rapportverktyg
+# Yrkesvux Rapportverktyg
+
+Detta repository används för versionsinformation och
+programuppdateringar för Yrkesvux Rapportverktyg.
+
+Ingen elevdata lagras här.
