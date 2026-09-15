@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.11.2",
-  "releaseName": "Yrkesvux Rapportverktyg 0.11.2",
-  "downloadUrl": "https://github.com/Misiek97x/yrkesvux-rapportverktyg-releases/releases/download/v0.11.2/Yrkesvux_Rapportverktyg_Setup_0.11.2.exe",
-  "sha256": "946B64BFA5C18AF4910131E3BD63BF2A559148DA3754F4650BAD213B79F9237D",
-  "releaseNotes": "Nyheter i 0.11.2:\n- Redovisning.xlsx är nu valfri vid rapportkörning.\n- Ny automatisk uppdateringsfunktion.\n- Uppdateringar kan installeras direkt från programmet.\n- SHA-256-verifiering av nedladdade uppdateringar.\n- Förbättrad uppdateringsupplevelse.",
+  "latestVersion": "0.11.3",
+  "releaseName": "Yrkesvux Rapportverktyg 0.11.3",
+  "downloadUrl": "https://github.com/Misiek97x/yrkesvux-rapportverktyg-releases/releases/download/v0.11.3/Yrkesvux_Rapportverktyg_Setup_0.11.3.exe",
+  "sha256": "F008533FA65EF48D3EE5BE74EA613D5878EC448E05CD5374E22FA609D0260D71",
+  "releaseNotes": "Testversion 0.11.3.\n\n- Test av den nya automatiska uppdateringsfunktionen.\n- Automatisk nedladdning och installation.\n- SHA-256-verifiering av uppdateringsfilen.",
   "required": false
 }
