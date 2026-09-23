@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.11.4",
-  "releaseName": "Yrkesvux Rapportverktyg 0.11.4",
-  "downloadUrl": "https://github.com/Misiek97x/yrkesvux-rapportverktyg-releases/releases/download/v0.11.4/Yrkesvux_Rapportverktyg_Setup_0.11.4.exe",
-  "sha256": "5B1B4D5A001F78B5D36F47B231E32B89A21936F7A244E94365FD3900F904E863",
-  "releaseNotes": "Testversion 0.11.4.\n\n- Första versionen signerad med Microsoft Artifact Signing.\n- Digital signering av både programfil och installationsfil.\n- Microsoft-tidsstämplad kodsignering.\n- Test av automatisk uppdatering med signerad installationsfil.",
+  "latestVersion": "0.11.5",
+  "releaseName": "Yrkesvux Rapportverktyg 0.11.5",
+  "downloadUrl": "https://github.com/Misiek97x/yrkesvux-rapportverktyg-releases/releases/download/v0.11.5/Yrkesvux_Rapportverktyg_Setup_0.11.5.exe",
+  "sha256": "138A72D7C95BEC93FFC234FDC2A67A2C81D1FA0A118BB921756A31EFAEF22DB3",
+  "releaseNotes": "Testversion 0.11.5.\n\n- Fullständigt signerad med Microsoft Artifact Signing.\n- Digital signering av både programfil och installationsfil.\n- Microsoft-tidsstämplad kodsignering.\n- Test av automatisk uppdatering från signerad 0.11.4 till signerad 0.11.5.",
   "required": false
 }
