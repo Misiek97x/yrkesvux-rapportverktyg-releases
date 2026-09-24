@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.12.0",
-  "releaseName": "Yrkesvux Rapportverktyg 0.12.0",
-  "downloadUrl": "https://github.com/Misiek97x/yrkesvux-rapportverktyg-releases/releases/download/v0.12.0/Yrkesvux_Rapportverktyg_Setup_0.12.0.exe",
-  "sha256": "A63609D1A4C2487E598100398161275FD69987A4E1F3DBF4D875F740D56288E6",
-  "releaseNotes": "Version 0.12.0.\n\n- Stöd för Excel som alternativ indatakälla.\n- Förbättrad hantering av valfria SCB-filer.\n- Ny resultatdialog.\n- Förbättrad teknisk logg och poängkontroll.\n- Förbättrad felhantering och stabilitet.",
+  "latestVersion": "0.12.1",
+  "releaseName": "Yrkesvux Rapportverktyg 0.12.1",
+  "downloadUrl": "https://github.com/Misiek97x/yrkesvux-rapportverktyg-releases/releases/download/v0.12.1/Yrkesvux_Rapportverktyg_Setup_0.12.1.exe",
+  "sha256": "C2D66874BCBCA1E543FC639B49DDF22F453C180910FA0858916757CB7A58431D",
+  "releaseNotes": "Version 0.12.1.\n\n- Förbättrad säkerhet i den automatiska uppdateringen.\n- Gamla temporära installationsfiler rensas före ny nedladdning.\n- Förbättrad SHA-256-kontroll och loggning.\n- Ny användarhandbok direkt i programmet.\n- Förbättrad hantering av temporära indatafiler.\n- Förbättrad felhantering och stabilitet.",
   "required": false
 }
