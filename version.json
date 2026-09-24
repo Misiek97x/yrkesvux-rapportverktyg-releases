@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.11.6",
-  "releaseName": "Yrkesvux Rapportverktyg 0.11.6",
-  "downloadUrl": "https://github.com/Misiek97x/yrkesvux-rapportverktyg-releases/releases/download/v0.11.6/Yrkesvux_Rapportverktyg_Setup_0.11.6.exe",
-  "sha256": "84CD5536851C4BE5F594CB700FFA4C4445559E66B2BB9D06E87BC0D9233FBA79",
-  "releaseNotes": "Testversion 0.11.6.\n\n- Förbättrad digital signering av installationskedjan.\n- Inno Setup använder Microsoft Artifact Signing direkt vid kompilering.\n- Signerad avinstallerare och installationskomponenter.\n- Test av automatisk uppdatering med Windows Smart App Control.",
+  "latestVersion": "0.12.0",
+  "releaseName": "Yrkesvux Rapportverktyg 0.12.0",
+  "downloadUrl": "https://github.com/Misiek97x/yrkesvux-rapportverktyg-releases/releases/download/v0.12.0/Yrkesvux_Rapportverktyg_Setup_0.12.0.exe",
+  "sha256": "0BE4759894032463EB1495B817DDD00DAD8EB700A971580CBB997E2C83589C7C",
+  "releaseNotes": "Version 0.12.0.\n\n- Stöd för Excel som alternativ indatakälla.\n- Förbättrad hantering av valfria SCB-filer.\n- Ny resultatdialog.\n- Förbättrad teknisk logg och poängkontroll.\n- Förbättrad felhantering och stabilitet.",
   "required": false
 }
