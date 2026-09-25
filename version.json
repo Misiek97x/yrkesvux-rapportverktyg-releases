@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.12.1",
-  "releaseName": "Yrkesvux Rapportverktyg 0.12.1",
-  "downloadUrl": "https://github.com/Misiek97x/yrkesvux-rapportverktyg-releases/releases/download/v0.12.1/Yrkesvux_Rapportverktyg_Setup_0.12.1.exe",
-  "sha256": "C2D66874BCBCA1E543FC639B49DDF22F453C180910FA0858916757CB7A58431D",
-  "releaseNotes": "Version 0.12.1.\n\n- Förbättrad säkerhet i den automatiska uppdateringen.\n- Gamla temporära installationsfiler rensas före ny nedladdning.\n- Förbättrad SHA-256-kontroll och loggning.\n- Ny användarhandbok direkt i programmet.\n- Förbättrad hantering av temporära indatafiler.\n- Förbättrad felhantering och stabilitet.",
+  "latestVersion": "0.12.2",
+  "releaseName": "Yrkesvux Rapportverktyg 0.12.2",
+  "downloadUrl": "https://github.com/Misiek97x/yrkesvux-rapportverktyg-releases/releases/download/v0.12.2/Yrkesvux_Rapportverktyg_Setup_0.12.2.exe",
+  "sha256": "2D8AAD02A23085F1F1F10BF5DF4C3529C9DD2E15535C0D7F816500545204FE25",
+  "releaseNotes": "Ny version med separat redovisning av yrkesförare i Redovisning.xlsx samt möjlighet att ändra rapportår direkt i programmet.",
   "required": false
 }
